@@ -6,6 +6,7 @@ import Example from './components/Example.vue'
 
 <template>
   <h1>Question Paper</h1>
+  <h2>Question Paper</h2>
   <Example msg="Question Paper" />
 </template>
 
